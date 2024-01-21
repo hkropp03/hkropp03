@@ -2,8 +2,8 @@
 
 ### About me
 ---
-I'm Hayden, an aspiring software engineer who has recently graduated college. Most of these projects within my profile
-are for self-progression and skills building. Some may be more significant than others, but the main goal is always learning!
+I'm Hayden, an aspiring software engineer who has recently graduated college. These projects within my profile are 
+for self-progression and skills building. Some may be more significant than others, but the main goal is always learning!
 ---
 Thanks for taking a look around my profile and seeing the visual representation of my journey!
 
